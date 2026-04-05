@@ -4,9 +4,6 @@ results_detected/
 results_split/
 eval_detected/
 eval_split/
-__pycache__/
-*.pyc
-.DS_Store
 final_detected_model.zip
 final_split_model.zip
 results_detected.zip
