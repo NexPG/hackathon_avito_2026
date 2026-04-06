@@ -2,7 +2,5 @@ final_detected_model/
 final_split_model/
 detected/
 split_model/
-eval_detected/
-eval_split/
 final_detected_model.zip
 final_split_model.zip
