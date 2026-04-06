@@ -1,10 +1,8 @@
 final_detected_model/
 final_split_model/
-results_detected/
-results_split/
+detected/
+split_model/
 eval_detected/
 eval_split/
 final_detected_model.zip
 final_split_model.zip
-results_detected.zip
-results_split.zip
