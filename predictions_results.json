@@ -1,0 +1,7243 @@
+[
+  {
+    "id": "1000002",
+    "detectedMcIds": [
+      102,
+      105,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000004",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000013",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000016",
+    "detectedMcIds": [
+      108,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000020",
+    "detectedMcIds": [
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000023",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000027",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000028",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000031",
+    "detectedMcIds": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000039",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000041",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000049",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000050",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000072",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000076",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000079",
+    "detectedMcIds": [
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000080",
+    "detectedMcIds": [
+      103,
+      105,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000086",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000095",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000105",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000123",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000135",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000148",
+    "detectedMcIds": [
+      102,
+      105,
+      107,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000162",
+    "detectedMcIds": [
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000168",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000175",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000180",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000188",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000191",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000203",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000204",
+    "detectedMcIds": [
+      102,
+      105
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000216",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000217",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000226",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000231",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000239",
+    "detectedMcIds": [
+      106,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000242",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000245",
+    "detectedMcIds": [
+      102,
+      103,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000250",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000251",
+    "detectedMcIds": [
+      102,
+      105,
+      106
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000252",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000263",
+    "detectedMcIds": [
+      106,
+      107,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000264",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000269",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000292",
+    "detectedMcIds": [
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000295",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000300",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000305",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000309",
+    "detectedMcIds": [
+      102,
+      103,
+      106,
+      107,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000312",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000315",
+    "detectedMcIds": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000316",
+    "detectedMcIds": [
+      106,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000317",
+    "detectedMcIds": [
+      102,
+      103,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000321",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000322",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000323",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000338",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000341",
+    "detectedMcIds": [
+      102,
+      103,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000347",
+    "detectedMcIds": [
+      103,
+      104
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000353",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000354",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000361",
+    "detectedMcIds": [
+      104,
+      105,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000363",
+    "detectedMcIds": [
+      105,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000367",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000368",
+    "detectedMcIds": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000371",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000379",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000380",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000387",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000388",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000397",
+    "detectedMcIds": [
+      102,
+      103,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000405",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000407",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000409",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000413",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000419",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000423",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000430",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000439",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000448",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000450",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000459",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000474",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000475",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000480",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000482",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000499",
+    "detectedMcIds": [
+      102,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000500",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000507",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000513",
+    "detectedMcIds": [
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000515",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000522",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000540",
+    "detectedMcIds": [
+      102,
+      105,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000561",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000562",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000567",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000568",
+    "detectedMcIds": [
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000569",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000571",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      107,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000576",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000577",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000581",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000584",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000587",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000588",
+    "detectedMcIds": [
+      102,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000589",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000590",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000593",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000596",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000603",
+    "detectedMcIds": [
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000609",
+    "detectedMcIds": [
+      102,
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000614",
+    "detectedMcIds": [
+      102,
+      106
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000630",
+    "detectedMcIds": [
+      104,
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000633",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000635",
+    "detectedMcIds": [
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000654",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000657",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000662",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000666",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000669",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000673",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000678",
+    "detectedMcIds": [
+      102,
+      103,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000679",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000681",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000693",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000698",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000699",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000703",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000716",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000724",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000725",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000726",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000729",
+    "detectedMcIds": [
+      102,
+      104,
+      106,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000732",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000739",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000740",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000744",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000766",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000775",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000779",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000783",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000786",
+    "detectedMcIds": [
+      105,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000793",
+    "detectedMcIds": [
+      102,
+      103,
+      104
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000794",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000795",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000796",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000808",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000819",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000825",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000835",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000843",
+    "detectedMcIds": [
+      103,
+      104,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000845",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000850",
+    "detectedMcIds": [
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000862",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000868",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000873",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000884",
+    "detectedMcIds": [
+      102,
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000885",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000886",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000887",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000890",
+    "detectedMcIds": [
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000891",
+    "detectedMcIds": [
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000892",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000893",
+    "detectedMcIds": [
+      102,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000904",
+    "detectedMcIds": [
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000907",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000911",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000931",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000933",
+    "detectedMcIds": [
+      105,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000936",
+    "detectedMcIds": [
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000937",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000951",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000952",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000956",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000958",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000965",
+    "detectedMcIds": [
+      104,
+      105,
+      106,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000967",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1000979",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000985",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1000989",
+    "detectedMcIds": [
+      102,
+      105,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001002",
+    "detectedMcIds": [
+      102,
+      105,
+      107,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001009",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001011",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001012",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001014",
+    "detectedMcIds": [
+      102,
+      105,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001015",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001030",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001033",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      107,
+      108,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001036",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001042",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001045",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001073",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001049",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001065",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001068",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001069",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001071",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001074",
+    "detectedMcIds": [
+      103,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001078",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001079",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001091",
+    "detectedMcIds": [
+      106,
+      107,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001092",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001095",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001100",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001113",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001117",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001120",
+    "detectedMcIds": [
+      102,
+      105,
+      106
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001123",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001140",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001142",
+    "detectedMcIds": [
+      104,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001147",
+    "detectedMcIds": [
+      105,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001151",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001159",
+    "detectedMcIds": [
+      102,
+      105
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001160",
+    "detectedMcIds": [
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001166",
+    "detectedMcIds": [
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001167",
+    "detectedMcIds": [
+      103,
+      104,
+      107,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001169",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001172",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001182",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001188",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001189",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001199",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001207",
+    "detectedMcIds": [
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001228",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001229",
+    "detectedMcIds": [
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001235",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001239",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001249",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001254",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001258",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001261",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001262",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      108
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001263",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001264",
+    "detectedMcIds": [
+      104,
+      105,
+      106,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001267",
+    "detectedMcIds": [
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001282",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001286",
+    "detectedMcIds": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001293",
+    "detectedMcIds": [
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001300",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001302",
+    "detectedMcIds": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001311",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001319",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001332",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001334",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001335",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001337",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001338",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001342",
+    "detectedMcIds": [
+      104,
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001343",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001347",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001350",
+    "detectedMcIds": [
+      103,
+      105,
+      107,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001353",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      109,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001361",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001367",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001368",
+    "detectedMcIds": [
+      102,
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001374",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001379",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001383",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001384",
+    "detectedMcIds": [
+      105,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001386",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001387",
+    "detectedMcIds": [
+      105,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001391",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001396",
+    "detectedMcIds": [
+      105,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001401",
+    "detectedMcIds": [
+      106,
+      107,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001407",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001413",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001416",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001418",
+    "detectedMcIds": [
+      105,
+      106,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001420",
+    "detectedMcIds": [
+      105,
+      106,
+      107,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001430",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001439",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001445",
+    "detectedMcIds": [
+      102,
+      103,
+      106,
+      107,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001458",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001459",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001462",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001466",
+    "detectedMcIds": [
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001467",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001473",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001474",
+    "detectedMcIds": [
+      106,
+      107,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001481",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      109,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001486",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001491",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001492",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001493",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001498",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001503",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001515",
+    "detectedMcIds": [
+      106,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001518",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001525",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001529",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001530",
+    "detectedMcIds": [
+      102,
+      105,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001533",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001542",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001556",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001559",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001568",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001571",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001573",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001577",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001580",
+    "detectedMcIds": [
+      102,
+      103,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001597",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001600",
+    "detectedMcIds": [
+      105,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001607",
+    "detectedMcIds": [
+      102,
+      105,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001609",
+    "detectedMcIds": [
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001610",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001611",
+    "detectedMcIds": [
+      103,
+      104,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001616",
+    "detectedMcIds": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001618",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001619",
+    "detectedMcIds": [
+      102,
+      103,
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001626",
+    "detectedMcIds": [
+      102,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001629",
+    "detectedMcIds": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001630",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001639",
+    "detectedMcIds": [
+      102,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001647",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001658",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001661",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001665",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001668",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      107,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001675",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001676",
+    "detectedMcIds": [
+      105,
+      106
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001690",
+    "detectedMcIds": [
+      102,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001693",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001701",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001708",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001714",
+    "detectedMcIds": [
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001726",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001727",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001734",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001736",
+    "detectedMcIds": [
+      102,
+      104,
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001747",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001752",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001754",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001757",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001759",
+    "detectedMcIds": [
+      106,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001760",
+    "detectedMcIds": [
+      104,
+      105,
+      108,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001770",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001777",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001778",
+    "detectedMcIds": [
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001780",
+    "detectedMcIds": [
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001786",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001787",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001788",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001790",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001800",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001801",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001802",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001804",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001806",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001808",
+    "detectedMcIds": [
+      103,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001809",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001819",
+    "detectedMcIds": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001821",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001825",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001829",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001834",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001835",
+    "detectedMcIds": [
+      104,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001836",
+    "detectedMcIds": [
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001841",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001843",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001847",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001851",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      108,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001860",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001863",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001880",
+    "detectedMcIds": [
+      105,
+      106,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001881",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001884",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001886",
+    "detectedMcIds": [
+      102,
+      104,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001888",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001889",
+    "detectedMcIds": [
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001903",
+    "detectedMcIds": [
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001904",
+    "detectedMcIds": [
+      105,
+      106,
+      107,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001908",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001909",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001913",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001920",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001925",
+    "detectedMcIds": [
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001927",
+    "detectedMcIds": [
+      102
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001932",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001934",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001939",
+    "detectedMcIds": [
+      105,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001940",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001941",
+    "detectedMcIds": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001946",
+    "detectedMcIds": [
+      102,
+      105,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001947",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001973",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001986",
+    "detectedMcIds": [
+      102,
+      104,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1001994",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1001998",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002004",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002005",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002009",
+    "detectedMcIds": [
+      102,
+      103,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002010",
+    "detectedMcIds": [
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002015",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002017",
+    "detectedMcIds": [
+      105,
+      106,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002018",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002024",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002053",
+    "detectedMcIds": [
+      102,
+      104,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002056",
+    "detectedMcIds": [
+      102,
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002057",
+    "detectedMcIds": [
+      109
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002059",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002061",
+    "detectedMcIds": [
+      102,
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002066",
+    "detectedMcIds": [
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002071",
+    "detectedMcIds": [
+      103,
+      104,
+      107,
+      108,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002079",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002083",
+    "detectedMcIds": [
+      102,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002088",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002090",
+    "detectedMcIds": [
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002098",
+    "detectedMcIds": [
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002108",
+    "detectedMcIds": [
+      104,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002116",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002118",
+    "detectedMcIds": [
+      102,
+      103,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002120",
+    "detectedMcIds": [
+      102,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002122",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002127",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002131",
+    "detectedMcIds": [
+      105,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002134",
+    "detectedMcIds": [
+      103,
+      105,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002139",
+    "detectedMcIds": [
+      103,
+      105,
+      108
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002141",
+    "detectedMcIds": [
+      102,
+      103,
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002144",
+    "detectedMcIds": [
+      103,
+      106,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002146",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002150",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002151",
+    "detectedMcIds": [
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002157",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002159",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002161",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002162",
+    "detectedMcIds": [
+      102,
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002178",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002185",
+    "detectedMcIds": [
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002188",
+    "detectedMcIds": [
+      104,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002190",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002191",
+    "detectedMcIds": [
+      103,
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002196",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002197",
+    "detectedMcIds": [
+      102,
+      103,
+      105
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002198",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002201",
+    "detectedMcIds": [
+      102,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002202",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002206",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002207",
+    "detectedMcIds": [
+      102,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002208",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002212",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002215",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      106,
+      107,
+      108,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002218",
+    "detectedMcIds": [
+      102,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002220",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      108,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002223",
+    "detectedMcIds": [
+      107
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002226",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002229",
+    "detectedMcIds": [
+      102,
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002233",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002236",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002237",
+    "detectedMcIds": [
+      105,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002246",
+    "detectedMcIds": [
+      102,
+      104,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002248",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002256",
+    "detectedMcIds": [
+      103,
+      105,
+      106,
+      107,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002259",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002263",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002267",
+    "detectedMcIds": [
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002275",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002276",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002281",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002288",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002290",
+    "detectedMcIds": [
+      103,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002291",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002294",
+    "detectedMcIds": [
+      105,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002296",
+    "detectedMcIds": [
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002299",
+    "detectedMcIds": [
+      102,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002308",
+    "detectedMcIds": [
+      104,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002311",
+    "detectedMcIds": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002313",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002323",
+    "detectedMcIds": [
+      102,
+      109,
+      110
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002324",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002344",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002348",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      },
+      {
+        "mcId": 105,
+        "mcTitle": "Укладка плитки",
+        "text": ""
+      },
+      {
+        "mcId": 106,
+        "mcTitle": "Поклейка обоев",
+        "text": ""
+      },
+      {
+        "mcId": 107,
+        "mcTitle": "Малярные работы",
+        "text": ""
+      },
+      {
+        "mcId": 108,
+        "mcTitle": "Штукатурные работы",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 110,
+        "mcTitle": "Гипсокартон",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002350",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002355",
+    "detectedMcIds": [
+      105,
+      106,
+      108,
+      109
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002357",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002361",
+    "detectedMcIds": [
+      104,
+      107
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002363",
+    "detectedMcIds": [
+      103
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002366",
+    "detectedMcIds": [
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002367",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002373",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      108,
+      109,
+      110
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002374",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002378",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002391",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002403",
+    "detectedMcIds": [
+      106,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002406",
+    "detectedMcIds": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002423",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002429",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002432",
+    "detectedMcIds": [
+      102,
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002433",
+    "detectedMcIds": [
+      102,
+      103,
+      105,
+      107,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002434",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002440",
+    "detectedMcIds": [
+      108,
+      109,
+      111
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002441",
+    "detectedMcIds": [
+      106,
+      108
+    ],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002451",
+    "detectedMcIds": [
+      102,
+      103,
+      110,
+      111
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 102,
+        "mcTitle": "Сантехника",
+        "text": ""
+      },
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      },
+      {
+        "mcId": 109,
+        "mcTitle": "Напольные покрытия",
+        "text": ""
+      },
+      {
+        "mcId": 111,
+        "mcTitle": "Демонтажные работы",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002455",
+    "detectedMcIds": [
+      102,
+      103
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 103,
+        "mcTitle": "Электрика",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002460",
+    "detectedMcIds": [
+      103,
+      104
+    ],
+    "shouldSplit": true,
+    "drafts": [
+      {
+        "mcId": 104,
+        "mcTitle": "Натяжные потолки",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "id": "1002478",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  },
+  {
+    "id": "1002497",
+    "detectedMcIds": [],
+    "shouldSplit": false,
+    "drafts": []
+  }
+]
