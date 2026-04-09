@@ -106,6 +106,13 @@
 
 ---
 
+### 6. Оценка моделей
+Файл: `rnc_test_with_predictions.csv`
+
+- Результаты на rnc_test
+
+---
+
 ##  Итоговые метрики
 
 | Модель / задача        | Precision | Recall  | F1-score | Accuracy |
