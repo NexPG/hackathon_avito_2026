@@ -107,7 +107,7 @@
 ---
 
 ### 6. Результат работы
-Файл: `rnc_test_with_predictions.csv`
+Файл: `rnc_test.csv`
 
 - Результаты на rnc_test
 
