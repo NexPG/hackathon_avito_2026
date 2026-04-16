@@ -131,4 +131,15 @@
 - определения независимых услуг
 - генерации текста для них
 
-Разработан в рамках хакатона IT Purple Hack 2026.
+## Результаты хакатона
+
+Проект разработан командой **Kernel Panic** в рамках IT Purple Hack 2026.
+
+Итог:
+- место: **топ 17**
+
+Подробные результаты доступны в [официальной таблице хакатона](https://docs.google.com/spreadsheets/d/e/2PACX-1vSF-GLrUazcJdbp5FpbmtxhdfKV7dy3wCsHEVWsTE4u9uZVt-nsfJJbo7Za5QsFRzJg6xopbvYp3G6W/pubhtml?gid=8405226&single=true).
+
+### Скриншот таблицы
+
+![Hackathon Results](docs/hackathon_results.png)
